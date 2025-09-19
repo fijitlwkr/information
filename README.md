@@ -4,7 +4,7 @@
 > phone: *~~it's secret.shh.~~*   
 > country: South Korea   
 > constellation: Lion
-> ![lion_star](./lion_star.jpg)
+> ![lion_star](./leomeme.webp)
 ## Check the following sentence if you agree with it.
 > - [ ] 나는 혼자 있는 시간이 중요하다   
 > - [ ] 나는 수영을 좋아한다   
