@@ -1,2 +1,1 @@
-# information
-for Beyond SW 21th
+# information for Beyond SW 21th
